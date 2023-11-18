@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/doesntmatter177" target="blank"><img src="https://img.shields.io/twitter/follow/doesntmatter177?logo=twitter&style=for-the-badge" alt="doesntmatter177" /></a> </p>
 
-- 🔭 I’m currently working on [CodeEasy](https://github.com/Sushobhan-Nayak/CodeEasy)
-
 - 🌱 I’m currently learning **ReactJs and Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sushobhan-Nayak?tab=repositories](https://github.com/Sushobhan-Nayak?tab=repositories)
