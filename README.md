@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Web Development and applications of machine learning.
+👋 Hello there! I'm Sushobhan Nayak, a passionate Flutter app developer with a keen interest in exploring the realms of web development and deep learning.
 
 
 ## 🌐 Socials:
